@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Text-Magic/static/css/main.435d5fe5.chunk.css",
-    "main.js": "/Text-Magic/static/js/main.c77d9b76.chunk.js",
-    "main.js.map": "/Text-Magic/static/js/main.c77d9b76.chunk.js.map",
+    "main.js": "/Text-Magic/static/js/main.f9d9b48c.chunk.js",
+    "main.js.map": "/Text-Magic/static/js/main.f9d9b48c.chunk.js.map",
     "runtime~main.js": "/Text-Magic/static/js/runtime~main.67275dbd.js",
     "runtime~main.js.map": "/Text-Magic/static/js/runtime~main.67275dbd.js.map",
-    "static/js/2.0d8d0dc0.chunk.js": "/Text-Magic/static/js/2.0d8d0dc0.chunk.js",
-    "static/js/2.0d8d0dc0.chunk.js.map": "/Text-Magic/static/js/2.0d8d0dc0.chunk.js.map",
+    "static/js/2.bb78a4f9.chunk.js": "/Text-Magic/static/js/2.bb78a4f9.chunk.js",
+    "static/js/2.bb78a4f9.chunk.js.map": "/Text-Magic/static/js/2.bb78a4f9.chunk.js.map",
     "static/js/3.bd282c0b.chunk.js": "/Text-Magic/static/js/3.bd282c0b.chunk.js",
     "static/js/3.bd282c0b.chunk.js.map": "/Text-Magic/static/js/3.bd282c0b.chunk.js.map",
     "index.html": "/Text-Magic/index.html",
-    "precache-manifest.5d73368026a8cead68be07a2da959b9d.js": "/Text-Magic/precache-manifest.5d73368026a8cead68be07a2da959b9d.js",
+    "precache-manifest.749bf6e4508b97d15076cacb73809b1a.js": "/Text-Magic/precache-manifest.749bf6e4508b97d15076cacb73809b1a.js",
     "service-worker.js": "/Text-Magic/service-worker.js",
     "static/css/main.435d5fe5.chunk.css.map": "/Text-Magic/static/css/main.435d5fe5.chunk.css.map"
   }
